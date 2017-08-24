@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web_rates>
+ <web_rate_element>
+  <destination>Rzeszow Berlin</destination>
+  <access_number>Wizzair</access_number>
+  <rate>678</rate>
+  <sms_rate>30.450</sms_rate>
+  <bt_rate>1334.0</bt_rate>
+ </web_rate_element>
+<web_rate_element>
+  <destination>Warsaw Washington</destination>
+  <access_number>Wizzair</access_number>
+  <rate>198.4</rate>
+  <sms_rate>309.0</sms_rate>
+  <bt_rate>133.90</bt_rate>
+ </web_rate_element>
+<web_rate_element>
+  <destination>Paris London</destination>
+  <access_number>Lufthansa</access_number>
+  <rate>18.47</rate>
+  <sms_rate>350.0</sms_rate>
+  <bt_rate>1335.0</bt_rate>
+ </web_rate_element>
+</web_rates>
